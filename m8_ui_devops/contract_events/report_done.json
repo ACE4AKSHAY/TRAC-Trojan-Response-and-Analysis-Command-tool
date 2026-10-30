@@ -1,0 +1,13 @@
+{
+  "event_id": "f1a6af4d-8e73-44e3-869e-25fad51bf3b4",
+  "type": "report.done",
+  "analysis_id": "00000003-0000-4000-8000-000000000003",
+  "vault_id": "00000003-0000-4000-8000-000000000003",
+  "emitted_at": "2026-10-28T11:52:48.512506+00:00",
+  "producer": "M8",
+  "contract_version": "1.0.0",
+  "attempt": 1,
+  "payload": {
+    "report_vault_id": "6977da70-4a7c-43aa-b41c-2233dc5c9434"
+  }
+}
